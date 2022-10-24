@@ -1,0 +1,1 @@
+web: qunicode app:app
